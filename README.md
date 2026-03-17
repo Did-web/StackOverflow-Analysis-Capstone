@@ -1,3 +1,3 @@
 # StackOverflow-Analysis-Capstone
 
-https://github.com/Did-web/StackOverflow-Analysis-Capstone/blob/a61e4605d9db6c2b58e2df53bc29c648e7b7b47e/Developer_Survey_Dashboard_Current_Future_Demographics_submit.pdf
+https://raw.githubusercontent.com/Did-web/StackOverflow-Analysis-Capstone/main/Developer_Survey_Dashboard_Current_Future_Demographics_submit.pdf
